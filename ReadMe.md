@@ -16,4 +16,5 @@
 ### cache2
 - 1、三级缓存：LruCache + SAF + HttpURLConnection
 - 2、内存缓存中使用了强引用和软引用
+- 3、分层架构可以参考；SAF模块可以替换成DiskLruCache
 
